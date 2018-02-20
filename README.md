@@ -1,2 +1,2 @@
-# Notebook-Of-Things-I-Don-t-Know-About
+# Notebook Of Things I Don't Know About
 Collection of Notes
